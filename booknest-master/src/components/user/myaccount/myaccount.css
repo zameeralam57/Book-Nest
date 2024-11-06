@@ -1,0 +1,98 @@
+.heading{
+    color: #F07C29;
+    font-family: "Rufina", serif;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 2px;
+  }
+
+  .account{
+    width: 400px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+   .card-action{
+    text-align: start;
+     float: left;
+     background: white;
+     border-radius: 50%;
+     bottom: 0;
+     color: #fff;
+     display: inline-block;
+   
+     height: 25px;
+     text-align: center;
+     width: 25px;
+     font-size: 8px;
+     margin-left: 125px;
+    position: absolute;
+    margin-bottom: 338px;
+ box-shadow: 0 1px 2px #0003, 0 1px 2px #00000030;
+ 
+}
+.accounticon{
+    font-size: 12px;
+    color: black;
+    align-items: center;
+    margin-left: -4px;
+}
+
+.cardbutton{
+    background: #F07C29 none repeat scroll 0 0;
+    color: #fff;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 700;
+    height: 40px;
+    line-height: 50px;
+    padding: 0 10px;
+    text-transform: uppercase;
+    font-family: 'Rufina', serif;
+    font-weight: 400;
+    border: none;
+}
+
+.cardbutton:hover{
+    background:#212529;
+    color: white;
+}
+
+.updateaccount{
+   
+    width: 500px;
+    height: 400px;
+    box-shadow: 0 1px 2px #0003, 0 1px 2px #00000030;
+}
+.cardtitle{
+    color: #222;
+    font-family: "Rufina", serif;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 2px;
+
+}
+
+.editbutton{
+    background: #F07C29 none repeat scroll 0 0;
+    border-radius: 0;
+    box-shadow: none;
+    color: #fff;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 700;
+    height: 40px;
+    line-height: 40px;
+    margin-right: 15px;
+    padding: 0 15px;
+    text-shadow: none;
+    text-transform: uppercase;
+    transition: all 0.3s ease 0s;
+    font-family: 'Rufina', serif;
+    font-weight: 400;
+}
+
+.editbutton:hover{
+    background-color: #212529;
+    color: white;
+    border: none;
+}

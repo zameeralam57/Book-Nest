@@ -1,0 +1,46 @@
+ 
+    .team-boxed {
+  color:#313437;
+  background-color:#eef4f7;
+  font-family: 'Rufina', serif;
+}
+
+.team-boxed p {
+  color:#7d8285;
+}
+
+.team-boxed h2 {
+  font-weight:bold;
+  margin-bottom:40px;
+  padding-top:40px;
+  color:inherit;
+}
+
+@media (max-width:767px) {
+  .team-boxed h2 {
+    margin-bottom:25px;
+    padding-top:25px;
+    font-size:24px;
+  }
+}
+
+.team-boxed .intro {
+  font-size:16px;
+  max-width:500px;
+  margin:0 auto;
+}
+
+.card-title{
+  color: #f07c29;
+}
+
+.aboutDonetors{
+  font-size: 15px;
+  font-weight: 600;
+}
+
+
+
+
+
+   

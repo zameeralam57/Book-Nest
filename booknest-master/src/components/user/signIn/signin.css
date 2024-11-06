@@ -1,0 +1,30 @@
+.login {
+    min-height: 65vh;
+}
+
+.sign-image {
+    background-image: url('./login.jpg');
+    background-size: cover;
+    border-radius: 5px 18% 5% 19%;
+    box-shadow: 0px 0px 15px gray;
+    height: 65vh;
+    margin: 30px
+}
+
+.login-heading {
+    font-weight: 300;
+}
+
+.btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+    background-color: #f07c29;
+    outline: none !important;
+}
+
+.welcome {
+    color: #f07c29;
+    font-size: 39px;
+    
+}

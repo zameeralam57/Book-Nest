@@ -1,0 +1,79 @@
+
+.donatecontainer{
+   height: auto;
+   width: 100%;
+
+}
+
+.subheading{
+    background: transparent none repeat scroll 0 0;
+    color:black ;
+    display: block;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    position: relative;
+    text-transform: uppercase;
+   
+}
+
+.donatebutton{
+    background: #F07C29 none repeat scroll 0 0;
+    color: #fff;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 700;
+    height: 50px;
+    line-height: 50px;
+    margin-top: 20px;
+    padding: 0 30px;
+    text-transform: uppercase;
+    font-family: 'Rufina', serif;
+    font-weight: 400;
+    border: none;
+}
+.donatebutton:hover{
+    background:#212529;
+    color: white;
+}
+
+.donateimg {
+    height: 350px;
+    width: 350px;
+}
+
+.howdonate{
+    height: 30px;
+    background-color: #F07C29;
+}
+
+.howsubHeading{
+    background: transparent none repeat scroll 0 0;
+    color:#212529 ;
+    display: block;
+    font-size: 13px;
+    font-weight: 200;
+    line-height: 25px;
+  
+  
+}
+
+.donate{
+    height: auto;
+    box-shadow: 0px 2px 3px;
+}
+
+p{
+    color: rgba(0,0,0,.6);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 200;
+}
+.donateformimage{
+    height: 600px;
+    width: 500px;
+    
+}
+.donateformcontain{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}

@@ -1,0 +1,127 @@
+.img_conrtainer {
+    height: 250px;
+    padding-top: 50px;
+}
+
+.card :hover img,
+.card :hover .img_conrtainer {
+    padding-top: 0 !important;
+    height: 250px !important;
+    transition: 2s;
+}
+
+.cardbutton {
+    background: #F07C29 none repeat scroll 0 0;
+    color: #fff;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 700;
+    height: 40px;
+    line-height: 50px;
+    padding: 0 10px;
+    text-transform: uppercase;
+    font-family: 'Rufina', serif;
+    font-weight: 400;
+    border: none;
+}
+
+.cardbutton:hover {
+    background: #212529;
+    color: white;
+}
+
+.buttonhover {
+    background-color: #212529;
+    color: white;
+    width: 170px;
+}
+
+.buttonhover:hover {
+    background-color: #F07c29;
+    cursor: pointer;
+    color: white;
+    font-family: bold;
+}
+
+.card {
+    box-shadow: rgba(252, 200, 161, 0.8)0px 3px 6px, rgba(252, 200, 161, 0.8) 0px 3px 6px;
+}
+
+.cardtitle {
+    color: #222;
+    font-family: "Rufina", serif;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 2px;
+}
+
+.cardprice {
+    color: #F07c29;
+    font-family: "Rufina", serif;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 2px;
+}
+
+.cardcircle {
+    text-align: start;
+    float: left;
+    background: white;
+    border-radius: 50%;
+    bottom: 0;
+    color: #fff;
+    display: inline-block;
+    height: 50px;
+    text-align: center;
+    width: 47px;
+    font-size: 8px;
+    margin-left: 192px;
+    position: absolute;
+    margin-bottom: 132px;
+    box-shadow: 0 1px 2px #0003, 0 1px 2px #00000030;
+}
+.viewcircle {
+    /* border: 1px solid #F07; */
+    background-color: #F07c29;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    width: 34px;
+    height: 35px;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    margin-top: 9px;
+    float: right;
+}
+.viewicon{
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.carticon {
+    font-size: 20px;
+    color: #314e52;
+}
+
+.cardcircle:hover {
+    background-color: #F07c29;
+    color: white;
+}
+
+.cardimg {
+    height: 130px !important;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.cardimg:hover {
+    height: 150px;
+    width: 240px;
+    padding-top: 30px;
+    padding: 30px;
+    cursor: pointer;
+    transition-duration: 1s;
+}

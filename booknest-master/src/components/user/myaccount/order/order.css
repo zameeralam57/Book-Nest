@@ -1,0 +1,39 @@
+thead th{
+    background-color:#F07c29 !important;
+    color: white;
+    font-family: "Rufina", serif;
+   position: relative;
+    font-weight: 500;
+    overflow: hidden;
+}
+
+.orderDetailsContainer{
+    height: 500px;
+}
+.orderId{
+    height: 30px;
+    width: 28%;
+    background-color: #F07c29;
+    float: left;
+}
+.orderDetaildiv{
+    height: auto;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.carttitle{
+    color: #F07c29;
+    font-family: "Rufina", serif;
+}
+.contentcart{
+    font-family: "Rufina", serif;
+    color: black;
+}
+.myaccount-table{
+    overflow: scroll;
+     height: 300px;
+}
+.noOrder{
+    height: 300px;
+    width: 300px;
+}

@@ -1,0 +1,266 @@
+.reviewheading {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: black;
+    font-weight: 400;
+}
+
+#main_wrapper {
+    /* border: 2px solid red; */
+    height: 600px;
+    width: 100%;
+}
+
+#container_wrapper {
+    /* border : 2px solid green; */
+    height: 450px;
+}
+
+.mid_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+    /* border: 2px solid darkcyan; */
+    height: 50px;
+    /* box-shadow: #212529 4px 13px 15px -5px, #212529 4px 8px 8px -8px; */
+}
+
+#heading {
+    height: 50px;
+    width: 100%;
+    /* border: 2px solid blue; */
+    text-align: center;
+}
+
+
+
+
+
+#div1 {
+    /* border : 2px solid black; */
+    height: 353px;
+    width: 35%;
+    margin-top: 30px;
+    margin-top: 50px;
+    background-color: whitesmoke;
+}
+
+#div1:hover {
+    box-shadow: #212529 4px 13px 15px -5px, #212529 4px 8px 8px -8px;
+}
+
+#div1 #main_image {
+    height: 350px;
+    width: 100%;
+    /* background-color: aqua; */
+    margin: auto;
+}
+
+#main_image img {
+    width: 100%;
+    height: 350px;
+}
+
+#main_image .img2 {
+    height: 350px;
+    width: 100%;
+}
+
+.img_collaction {
+    display: flex;
+    width: 100%;
+    height: 90px;
+    /* border: 1px solid greenyellow; */
+    padding-top: 13px;
+    justify-content: space-around;
+}
+
+.image1 {
+    height: 100%;
+    width: 100px;
+    border: 2px solid #212529;
+}
+
+.img_collaction img {
+    width: 100%;
+    height: 100%;
+}
+
+#div2 {
+    /* border : 2px solid pink; */
+    height: 600px;
+    width: 50%;
+    margin-top: 50px;
+   box-sizing: border-box;
+}
+
+#div2_heading {
+    text-align: center;
+    color: #192837;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+
+
+#cartbtn {
+    width: 50%;
+    text-align: center;
+    vertical-align: middle;
+    height: 40px;
+    margin-bottom: 5px;
+    line-height: 40px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+
+#wishlistbtn {
+    background-color: #f07c29 !important ;
+    color: white !important ;
+    text-align: center;
+    line-height: 40px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-family: sans-serif;
+    width: 50%;
+    height: 40px;
+    margin-top: 15px;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+/* history */
+.historyMain {
+    font-weight: bold;
+}
+
+.tableHeadingHistory {
+    background-color: #f6344b;
+    color: white;
+    font-family: sans-serif;
+}
+
+.searchinput {
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    color: #3b4348;
+}
+
+/* empty beg */
+.gotoshopping {
+    margin-left: 190px;
+    margin-top: 20px;
+    font-size: 16px;
+    text-shadow: none;
+    padding: 7px 20px;
+    background: #f6344b;
+    color: #fff;
+    transition: color 300ms ease-in-out 0s, background-color 300ms ease-in-out 0s, background-position 300ms ease-in-out 0s;
+    border: none;
+    height: 40px;
+    text-transform: uppercase;
+}
+
+.gotoshopping:hover {
+    background: #202726;
+    color: #fff;
+}
+
+.discriptionbtn{
+font-size: 16px;
+text-shadow: none;
+padding: 7px 20px;
+background: #333 ;
+color: #fff;
+color: #fff;
+font-size: 14px;
+font-weight: 700;
+height: 49px;
+letter-spacing: 0.025em;
+padding: 0 30px;
+text-transform: uppercase;
+transition: color 300ms ease-in-out 0s, background-color 300ms ease-in-out 0s, background-position 300ms ease-in-out 0s;
+border: none;
+
+
+}
+.discriptionbtn:hover{
+background: #f07c29;
+color: #fff;
+} 
+.discriptionbuttons{
+margin-top: 20px;
+}
+
+.discriptionbtn2{
+font-size: 16px;
+text-shadow: none;
+padding: 7px 20px;
+background-color:#f07c29 ;
+border:  2px solid #333  ;
+
+color:  #fff ;
+font-size: 14px;
+font-weight: 700;
+height: 49px;
+letter-spacing: 0.025em;
+padding: 0 30px;
+text-transform: uppercase;
+/* transition: color 300ms ease-in-out 0s, background-color 300ms ease-in-out 0s, background-position 300ms ease-in-out 0s; */
+border: none;
+margin-top: 10px;
+}
+
+.dectitel{
+color: #333;
+font-family: "Rufina", serif;
+font-size: 50px;
+font-weight: 400;
+line-height: 1;
+margin: 0 0 15px;
+text-transform: capitalize;
+}
+.bookdescription{
+font-family: 'Open Sans', sans-serif;
+font-size: 14px;
+font-weight: 400;
+color: #666;
+margin-top: 30px;
+
+}
+
+.desprice{
+color: #f07c29;
+font-family: "Rufina", serif;
+font-size: 28px;
+font-style: italic;
+font-weight: 600;
+line-height: 30px;
+margin-top: 20px;
+}
+.decauther{
+font-family: "Rufina", serif;
+font-size: 28px;
+font-style: italic;
+font-weight: 600;
+line-height: 30px; 
+color: #333;
+margin-top:30px ;
+
+}
+.authername{
+font-family: "Rufina", serif;
+font-size: 28px;
+font-style: italic;
+font-weight: 600;
+line-height: 30px; 
+color: #f07c29;
+margin-top:60px ;
+}
+

@@ -1,0 +1,242 @@
+.addtocartcontainer {
+    height: 600px;
+    width: 100%;
+    overflow-y: scroll;
+}
+
+.addtocardheading {
+    color: #F07c29;
+    font-family: "Rufina", serif;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+
+.addtocartdiv {
+    height: auto;
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.addtocartdivafter {
+    height: 310px;
+    padding-bottom: 10px;
+    top: 40px;
+    position: sticky;
+    top: 20px;
+    right: 40px;
+    box-shadow: rgba(0, 0, 0, 0.6) 0px 7px 29px 0px;
+}
+
+.headingcart {
+    height: 40px;
+    background-color: #f07c29;
+    font-family: "Rufina", serif;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.imgcart {
+    width: 100%;
+    margin: auto;
+}
+
+.cartscontainheading {
+    font-size: 18px;
+    font-weight: 900;
+    font-family: 'Rufina', serif;
+}
+
+.cartbutton {
+    background: #212529;
+    color: #fff;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 700;
+    height: 40px;
+    line-height: 43px;
+    margin-top: 20px;
+    padding: 0 22px;
+    text-transform: uppercase;
+    font-family: 'Rufina', serif;
+    font-weight: 400;
+    border: none;
+}
+
+.cartcheckoutbutton {
+    background: #F07c29;
+    color: #fff;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 700;
+    height: 40px;
+    line-height: 43px;
+    margin-top: 20px;
+    padding: 0 22px;
+    text-transform: uppercase;
+    font-family: 'Rufina', serif;
+    font-weight: 400;
+    border: none;
+}
+
+.cartcheckoutbutton:hover {
+    background-color: #212529;
+}
+
+.cartbutton:hover {
+    background-color: #F07c29;
+}
+
+.img1 {
+    box-shadow: 0px 0px 5px #f07c29;
+    height: 100px !important;
+    width: 100px !important;
+    border-radius: 10px;
+}
+
+
+.cartbutton {
+    background: #212529;
+    color: #fff;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 700;
+    height: 40px;
+    line-height: 43px;
+    margin-top: 20px;
+    padding: 0 22px;
+    text-transform: uppercase;
+    font-family: 'Rufina', serif;
+    font-weight: 400;
+    border: none;
+    letter-spacing: o.3px;
+}
+
+.cartcheckoutbutton {
+    background: #F07c29;
+    color: #fff;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 700;
+    height: 40px;
+    line-height: 43px;
+    margin-top: 20px;
+    padding: 0 22px;
+    text-transform: uppercase;
+    font-family: 'Rufina', serif;
+    font-weight: 400;
+    border: none;
+}
+
+.img1:hover {
+    box-shadow: 0px 0px 5px gray;
+    transform: scale(1.02);
+    height: 100px !important;
+    width: 80px !important;
+    transition: 0.3s;
+}
+
+.cartbutton{
+background: #212529;
+color: #fff;
+display: inline-block;
+font-size: 13px;
+font-weight: 700;
+height: 40px;
+line-height: 43px;
+margin-top: 20px;
+padding: 0 22px;
+border-radius: 50px;
+text-transform: uppercase;
+font-family: 'Rufina', serif;
+font-weight: 400;
+border: none;
+letter-spacing: o.3px;
+}
+.cartcheckoutbutton{
+background: #F07c29;
+color: #fff;
+display: inline-block;
+font-size: 13px;
+font-weight: 700;
+height: 40px;
+border-radius: 50px;
+line-height: 43px;
+margin-top: 20px;
+padding: 0 22px;
+text-transform: uppercase;
+font-family: 'Rufina', serif;
+font-weight: 400;
+border: none;
+letter-spacing: 0.3;
+}
+.cartcheckoutbutton:hover{
+background-color: #212529;
+color: white;
+cursor: pointer;
+}
+
+.cartbutton:hover {
+    background-color: #F07c29;
+}
+
+
+.orderSummary {
+    font-family: 'Rufina', serif;
+    font-weight: 400;
+    color: #F07c29;
+    font-size: 20px;
+}
+
+.emptycartcontainer {
+    height: 450px;
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+
+.orderSummary{
+font-family: 'Rufina', serif;
+font-weight:bold;
+color: #F07c29;
+font-size: 20px;
+
+}
+
+.emptycartcontainer{
+   height: 450px;
+   width: 100%;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+
+}
+
+.mycart {
+    height: 400px;
+    width: 500px;
+    margin: auto;
+}
+
+.emptycart {
+    align-items: "center";
+    height: 250;
+    width: 250;
+    margin: "auto";
+    border-radius: "50%";
+}
+
+.emptycartcontain {
+    height: 150px;
+    width: 500px;
+
+}
+
+   
+}
+
+.modal-dialog{
+    width: 35%;
+}
+
+.innermodel{
+    width: 400px;
+   margin: auto;
+}
+

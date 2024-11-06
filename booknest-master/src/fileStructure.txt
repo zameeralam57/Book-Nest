@@ -1,0 +1,296 @@
+booknest-master/
+├── node_modules
+├── public/
+│   ├── css/
+│   │   ├── animate.css
+│   │   ├── bootstrap.css
+│   │   ├── bootstrap.min.css
+│   │   ├── card.css
+│   │   ├── chosen.min.css
+│   │   ├── flexslider.css
+│   │   ├── font-awesome.min.css
+│   │   ├── meanmenu.min.css
+│   │   ├── owl.carousel.css
+│   │   └── responsive.css
+│   ├── img/
+│   │   ├── banner/
+│   │   │   ├── 1.jpg
+│   │   │   ├── 2.jpg
+│   │   │   ├── 3.jpg
+│   │   │   ├── 4.jpg
+│   │   │   ├── 5.jpg
+│   │   │   ├── 6.jpg
+│   │   │   ├── 7.jpg
+│   │   │   ├── 8.jpg
+│   │   │   ├── 9.jpg
+│   │   │   └── 11.jpg
+│   │   ├── bookImages/
+│   │   │   ├── applied.png
+│   │   │   ├── murder.png
+│   │   │   ├── richdad.jpg
+│   │   │   └── wings of fire.png
+│   │   ├── cart/
+│   │   │   ├── cart.jpeg
+│   │   │   └── cart1.png
+│   │   ├── donar/
+│   │   │   ├── donar1.jpg
+│   │   │   ├── donar2.jpg
+│   │   │   ├── donar3.jpg
+│   │   │   ├── donar4.jpg
+│   │   │   ├── donar5.jpg
+│   │   │   ├── donar6.jpg
+│   │   │   ├── donar7.jpg
+│   │   │   ├── form.jpg
+│   │   │   └── globe-book.jpg
+│   │   ├── donate/
+│   │   │   └── donateimg.jpg
+│   │   ├── favicon_io/
+│   │   │   ├── android-chrome-192x192.png
+│   │   │   ├── android-chrome-512x512.png
+│   │   │   ├── apple-touch-icon.png
+│   │   │   ├── favicon-16x16.png
+│   │   │   ├── favicon-32x32.png
+│   │   │   ├── favicon.ico 
+│   │   │   └── site.webmanifest
+│   │   ├── flag/
+│   │   │   ├── 1.jpg
+│   │   │   ├── 2.jpg
+│   │   │   └── 3.jpg
+│   │   ├── logo/
+│   │   │   └── logo.png
+│   │   ├── order/
+│   │   │   └── noorder.png
+│   │   ├── post/
+│   │   │   ├── 1.jpg
+│   │   │   ├── 2.jpg
+│   │   │   ├── 3.jpg
+│   │   │   └── 4.jpg
+│   │   ├── product/
+│   │   │   ├── 1.jpg
+│   │   │   ├── 2.jpg
+│   │   │   ├── 3.jpg
+│   │   │   ├── 4.jpg
+│   │   │   ├── 5.jpg
+│   │   │   ├── 6.jpg
+│   │   │   ├── 7.jpg
+│   │   │   ├── 8.jpg
+│   │   │   ├── 9.jpg
+│   │   │   ├── 10.jpg
+│   │   │   ├── 11.jpg
+│   │   │   ├── 12.jpg
+│   │   │   ├── 13.jpg
+│   │   │   ├── 14.jpg
+│   │   │   ├── 15.jpg
+│   │   │   ├── 16.jpg
+│   │   │   ├── 17.jpg
+│   │   │   ├── 18.jpg
+│   │   │   ├── 19.jpg
+│   │   │   ├── 20.jpg
+│   │   │   ├── 21.jpg
+│   │   │   ├── 22.jpg
+│   │   │   ├── 23.jpg
+│   │   │   ├── 24.jpg
+│   │   │   ├── 25.jpg
+│   │   │   ├── 26.jpg
+│   │   │   ├── 27.jpg
+│   │   │   ├── 28.jpg
+│   │   │   ├── 29.jpg
+│   │   │   ├── quickview-l2.jpg
+│   │   │   ├── quickview-l3.jpg
+│   │   │   ├── quickview-l4.jpg
+│   │   │   ├── quickview-l5.jpg
+│   │   │   ├── quickview-s2.jpg
+│   │   │   ├── quickview-s3.jpg
+│   │   │   ├── quickview-s4.jpg
+│   │   │   └── quickview-s5.jpg
+│   │   ├── slider/
+│   │   │   ├── 1.jpg
+│   │   │   ├── 2.jpg
+│   │   │   └── 3.jpg
+│   │   ├── team/
+│   │   │   ├── team-1.jpg
+│   │   │   ├── team-2.jpg
+│   │   │   ├── team-3.jpg
+│   │   │   └── team-4.jpg
+│   │   ├── users/
+│   │   │   ├── aashta.png
+│   │   │   ├── ajjpu.png
+│   │   │   ├── bhawna.png
+│   │   │   ├── harshita.png
+│   │   │   ├── mohit.png
+│   │   │   ├── mukul.png
+│   │   │   └── murder.png
+│   │   ├── 1.png
+│   │   ├── b1.png
+│   │   ├── b2.png
+│   │   ├── b3.png
+│   │   ├── b4.png
+│   │   ├── changepassword.jpg
+│   │   ├── globe-book.png
+│   │   └── signup.png
+│   ├── js/
+│   │   ├── vendor/
+│   │   │   ├── jquery-1.12.4.min.js
+│   │   │   └── modernizr-2.8.3.min.js
+│   │   ├── bootstrap.min.js
+│   │   ├── chosen.jquery.min.js
+│   │   ├── jquery.countdown.min.js
+│   │   ├── jquery.counterup.min.js
+│   │   ├── jquery.flexslider.js
+│   │   ├── jquery.meanmenu.js
+│   │   ├── jquery.parallax-1.1.3.js
+│   │   ├── main.js
+│   │   ├── owl.carousel.min.js
+│   │   ├── plugins.js
+│   │   ├── waypoints.min.js
+│   │   ├── wow.min.js
+│   │   └── zoomsl.js
+│   ├── team/
+│   │   ├── nisha.png 
+│   │   ├── pappu.png
+│   │   └── zamir.png
+│   ├── index.html
+│   └── style.css
+├── src/
+│   ├── components/
+│   │   ├── About/
+│   │   │   ├── 6.jpg
+│   │   │   └── About.js
+│   │   ├── Banner/
+│   │   │   └── Banner.js
+│   │   ├── BestAuthor/
+│   │   │   ├── Author.css
+│   │   │   └── BestAuthor.js
+│   │   ├── Books/
+│   │   │   ├── BookList.css
+│   │   │   ├── BookList.js
+│   │   │   ├── Books.css
+│   │   │   └── Books.js
+│   │   ├── BooksCard/
+│   │   │   ├── BooksCard.js
+│   │   │   └── Card.js
+│   │   ├── BuyNow/
+│   │   │   └── BuyNow.js
+│   │   ├── Carousal/
+│   │   │   ├── 2.jpg
+│   │   │   └── Carousal.js
+│   │   ├── Checkout/
+│   │   │   └── Checkout.js
+│   │   ├── Contact/
+│   │   │   └── Contact.js
+│   │   ├── DonateBooks/
+│   │   │   ├── Donate.css
+│   │   │   ├── DonateBooks.js
+│   │   │   └── DonateForm.js
+│   │   ├── Donaters/
+│   │   │   ├── Donater.js
+│   │   │   └── Donaters.css
+│   │   ├── ExtraServices/
+│   │   │   ├── ExtraGoogle.css
+│   │   │   ├── GoogleLogin.js
+│   │   │   ├── Invoice.js
+│   │   │   └── RazorPay.js
+│   │   ├── Footer/
+│   │   │   └── Footer.js
+│   │   ├── FreeBooks/
+│   │   │   ├── FreeBooks.css
+│   │   │   └── FreeBooks.js
+│   │   ├── Header/
+│   │   │   ├── Header.css
+│   │   │   └── Header.js
+│   │   ├── Home/
+│   │   │   └── Home.js
+│   │   ├── ProtectedRoute/
+│   │   │   └── ProtectedRoute.js
+│   │   ├── SellBooks/
+│   │   │   └── SellBook.js
+│   │   ├── Service/
+│   │   │   ├── Interceptor.js
+│   │   │   └── Service.js
+│   │   ├── Spinner/
+│   │   │   ├── Loader.js
+│   │   │   ├── Spinner.js
+│   │   │   ├── Spinner.css
+│   │   │   └── Spinner2.js
+│   │   ├── TopBar/
+│   │   │   ├── TopBar.css
+│   │   │   └── TopBar.js
+│   │   ├── TopInteresting/
+│   │   │   ├── Top.css
+│   │   │   └── TopInteresting.js
+│   │   ├── User/
+│   │   │   ├── Cart/
+│   │   │   │   ├── Cart.css
+│   │   │   │   ├── Cart.js
+│   │   │   │   ├── EmptyCart.js
+│   │   │   │   └── Modal.css
+│   │   │   ├── ChangePassword/
+│   │   │   │   ├── ChangePassword.css
+│   │   │   │   └── ChangePassword.js
+│   │   │   ├── Checkout/
+│   │   │   │   └── Checkout.js
+│   │   │   ├── ForgetPassword/
+│   │   │   │   ├── Forget.html
+│   │   │   │   ├── ForgetPassword.css
+│   │   │   │   └── ForgetPassword.js
+│   │   │   ├── MyAccount/
+│   │   │   │   ├── NotUpload/
+│   │   │   │   │   ├── NoOrder.js
+│   │   │   │   │   ├── NotUpload.css
+│   │   │   │   │   └── NotUpload.js
+│   │   │   │   ├── Order/
+│   │   │   │   │   ├── Order.css
+│   │   │   │   │   ├── Order.js
+│   │   │   │   │   └── OrderDetails.js
+│   │   │   │   ├── UpdateBook/
+│   │   │   │   │   ├── UpdateBook.css
+│   │   │   │   │   └── UpdateBook.js
+│   │   │   │   ├── Account.js
+│   │   │   │   ├── Billing.js
+│   │   │   │   ├── MyAccount.css
+│   │   │   │   ├── MyAccount.js
+│   │   │   │   ├── Payment.js
+│   │   │   │   ├── Sidebar.js
+│   │   │   │   ├── Update.js
+│   │   │   │   └── UserBook.js
+│   │   │   ├── SignIn/
+│   │   │   │   ├── Login.jpg
+│   │   │   │   ├── SignIn.css
+│   │   │   │   └── SignIn.js
+│   │   │   ├── SignUp/
+│   │   │   │   ├── GoogleSignUp.js
+│   │   │   │   ├── SignUp.css
+│   │   │   │   └── SignUp.js
+│   │   │   └── GoogleLogin.js
+│   │   ├── ViewDescription/
+│   │   │   ├── ViewDescription.css
+│   │   │   └── ViewDescription.js
+│   ├── Externals/
+│   │   ├── BestAuthor.js
+│   │   ├── EasyInvoice.js
+│   │   ├── Offers.js
+│   │   └── Team.js
+│   ├── router-config/
+│   │   ├── CartSlice.js
+│   │   ├── categorySlice.js
+│   │   ├── recentProductSlice.js
+│   │   ├── stateSlice.js
+│   │   ├── store.js
+│   │   ├── topProductSlice.js
+│   │   └── userSlice.js
+│   ├── webApi/
+│   │   ├── receipt.html
+│   │   └── webapi.js
+│   ├── App.js
+│   ├── App.css
+│   ├── App.test.js
+│   ├── index.js
+│   ├── index.css
+│   ├── interceptor.js
+│   ├── reportWebVitals.js
+│   └── setupTests.js
+├── package.json
+├── package-lock.json
+├── .env 
+├── README.md
+└── .gitignore

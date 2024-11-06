@@ -1,0 +1,52 @@
+.topbarcontainr {
+    height: 10vh;
+    width: 100%;
+    background-color: gray;
+}
+
+.topbardiv {
+    height: 10vh;
+    position: relative;
+    /* background-color: blue; */
+}
+
+.topbarlogo {
+    height: 80px;
+}
+
+.logoimg {
+    height: 100px;
+    width: 90px;
+}
+
+.topbarlogoheading {
+    color: #F07C29;
+    font-family: "Roboto,HelveticaNeue,Arial,sans-serif";
+    font-size: 35px;
+    font-weight: bold;
+    margin: 40px;
+    margin-left: 0px;
+    padding-bottom: 30px;
+    position: absolute;
+}
+
+.logosymbol {
+    font-size: 40px;
+    color: #444444;
+}
+
+.count {
+    background: #f07c29 none repeat scroll 0 0;
+    border-radius: 50%;
+    bottom: 0;
+    color: #fff;
+    display: inline-block;
+    font-size: 18px;
+    height: 30px;
+    margin-left: -12px;
+    margin-bottom: 30px;
+    line-height: 30px;
+    position: absolute;
+    text-align: center;
+    width: 30px;
+}

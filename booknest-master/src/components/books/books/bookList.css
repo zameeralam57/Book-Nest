@@ -1,0 +1,72 @@
+ .mainDivofList{
+             height: 300px;
+             width: 100%;
+             /* border: 2px solid blue; */
+             display: flex;
+             /* box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px; */
+             
+         }
+         .listRigthPart{
+            height: 100%;
+            width: 300px;
+            /* border: 2px solid red; */
+         }
+         .ListBookImage{
+           margin: auto;
+            height: 200px;
+            width: 250px;
+            /* border: 2px solid green; */
+            margin-top: 25px;
+         }
+         .ListBookImg{
+            height: 100%;
+            width: 100%;
+            /* box-shadow:5px , 5px,5px ,5px ; */
+            margin-top: -20px;
+         }
+         .leftBookList{
+            height: 400px;
+            width: 100%;
+            /* border: 2px solid yellow; */
+            margin: auto;
+         }
+         .booklistContaint{
+           margin: 10px;
+            /* border-bottom: 1px solid #333; */
+           /* border: 2px solid black; */
+            height: 150px;
+            width: 100%; 
+             font-family: 'Rufina',serif;
+         }
+         .booklistName h3{
+            font-weight: 700;
+            font-size: 24px;
+            line-height: 35px;
+            color: #333;
+         }
+         .booklistName h3:hover{
+           color: #f07c29;
+         }
+         .listDescription{
+            font-size: 14px;
+            color: #666;
+            font-weight: 400;
+          
+         }
+         .ListPrice{
+            font-family: 'Rufina',serif;
+            font-style: italic;
+            font-weight: 600;
+             font-size: 20px;
+         }
+         .ListPrice:hover{
+             color: #f07c29;
+             
+           }
+           .bookListAddToCart a{
+               text-decoration: none;
+               margin-left: 20px;
+               color: #666;
+           }
+         
+    
